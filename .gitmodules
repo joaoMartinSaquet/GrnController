@@ -1,0 +1,6 @@
+[submodule "GRNEAT"]
+	path = GRNEAT
+	url = https://github.com/scussatb/GRNEAT.git
+[submodule "PongEnv"]
+	path = PongEnv
+	url = git@github.com:joaoMartinSaquet/PongEnv.git
