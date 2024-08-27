@@ -23,7 +23,7 @@ mvn -f GRNEAT/pom.xml exec:java -Dexec.mainClass="PACKAGE.MAINCLASS"
 example 
 
 ```
-mvn -f GRNEAT/pom.xml exec:java -Dexec.mainClass="evaluator.PongEvaluator"
+mvn -f GRNEAT/pom.xml exec:java -Dexec.mainClass="evaluators.PongEvaluator"
 ```
 
 
