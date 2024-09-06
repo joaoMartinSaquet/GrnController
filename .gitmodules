@@ -4,3 +4,6 @@
 [submodule "PongEnv"]
 	path = PongEnv
 	url = git@github.com:joaoMartinSaquet/PongEnv.git
+[submodule "pyGRN"]
+	path = pyGRN
+	url = https://github.com/d9w/pyGRN.git
